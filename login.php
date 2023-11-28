@@ -23,4 +23,20 @@ require __DIR__ . '/../src/bootstrap.php';
         </section>
     </form>
 </main>
+<<<<<<< HEAD
 <?php view('footer') ?>  "kavya sri"
+=======
+<?php view('footer') ?>
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
+>>>>>>> 35db56024a5f77ac82feab1675831dba8853d851
