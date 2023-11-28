@@ -9,7 +9,7 @@ require __DIR__ . '/../src/bootstrap.php';
         <h1>Login</h1>
         <div>
             <label for="username">Username:</label>
-            <input type="text" name="username" id="username">
+            <input type="text" name="username" id="username"> 
         </div>
 
         <div>
